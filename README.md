@@ -12,7 +12,7 @@ sudo apt install winetricks
 
 After you've made sure that wine and winetricks are properly installed, you'll want to `cd` into the directory where you want BYOND to be installed; or open that directory in the terminal via some other means. 
 
-Finally, just enter the following command:
+Finally, enter the following command:
 
 ```
 curl https://raw.githubusercontent.com/Zero-Bits/ss13.sh/master/ss13.sh | bash
