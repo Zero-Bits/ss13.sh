@@ -208,7 +208,9 @@ fi
 
 echo -e "${GREEN}Setting up fonts...${NC}"
 
-# curl http://pastebin.com/raw/Ziqx5ZrT > ./fontsmooth.reg 2>&1 >>log/wget.log
+# This seems to be the current point of failure for the script. Although, it would be nice if it could be fixed.
+
+# curl https://raw.githubusercontent.com/Zero-Bits/ss13.sh/master/fontsmooth.reg.template > ./fontsmooth.reg 2>&1 >>log/wget.log
 
 # regedit fontsmooth.reg 2>&1 >log/regedit.log
 
