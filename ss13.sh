@@ -242,7 +242,7 @@ if ! [ -f $SS13DIR/icon.png ]
 
 then
 
-    curl -s http://files.byondhome.com/Zamura/2009-10/Zamura-0001/Byond.png > $SS13DIR/icon.png
+    curl -s https://raw.githubusercontent.com/Zero-Bits/ss13.sh/master/Byond.png > $SS13DIR/icon.png
 
 fi
 
