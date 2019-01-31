@@ -1,4 +1,4 @@
-# How to Install
+# How to Install BYOND
 First, make sure wine and winetricks are installed. If you're not sure how to do this, then either follow one of the myriad guides available on the intertubes, or just run the commands below, which should work perfectly on Ubuntu:
 
 ```
@@ -32,7 +32,7 @@ If this script isn't your cup of tea or doesn't work for you, then there are a f
 3. Play on a VM.
 4. Play on Windows.
 
-# ss13.sh
+# Credits
 Credit to /u/Xaltonon on reddit for the original bash script, as well as /u/KarniinTheMighty on reddit and Gman0064 on github for their fixes and guides.
 
 Additional credit to Zamura-0001 on BYOND for the icon being used.
