@@ -33,6 +33,6 @@ If this script isn't your cup of tea or doesn't work for you, then there are a f
 4. Play on Windows.
 
 # Credits
-Credit to /u/Xaltonon on reddit for the original bash script, as well as /u/KarniinTheMighty on reddit and Gman0064 on github for their fixes and guides.
+Credit to /u/Xaltonon on reddit for the original bash script and guide, as well as /u/KarniinTheMighty on reddit and Gman0064 on github for their fixes and guides.
 
 Additional credit to Zamura-0001 on BYOND for the icon being used.
